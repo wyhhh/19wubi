@@ -2,7 +2,7 @@ from openpyxl import load_workbook
 from itertools import islice
 
 # ----- 1. 初始化词频字典和编码字典 --------------------------------------------------
-总表 = load_workbook('/Users/wyh/Nutstore Files/191五笔/191五笔词库映射.xlsx', data_only=True)['总表']
+总表 = load_workbook('191五笔词库映射.xlsx', data_only=True)['总表']
 
 词频字典 = {}
 编码to词集字典 = {}
@@ -106,7 +106,7 @@ def sorter(tup):
 
 码表.sort(key=sorter)
 
-out_path = '/Users/wyh/Nutstore Files/191五笔/191五笔码表.txt'
+out_path = '191五笔码表.txt'
 
 with open(out_path, 'w') as f:
     for 编码, 词集 in 码表:
@@ -114,5 +114,5 @@ with open(out_path, 'w') as f:
         for 词 in 词集:
             f.write('\t' + 词)
         f.write('\n')
-    with open('/Users/wyh/Nutstore Files/191五笔/emoji.txt') as emj:
+    with open('emoji.txt') as emj:
         f.write(emj.read())
