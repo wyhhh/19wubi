@@ -58,7 +58,8 @@ else:
 
 具体的参照excel或issue区评论。
 
-参照阅读：https://www.bilibili.com/video/BV1DK4y1H75c
+支持在191码表基础上自定义拆分，映射，词频等，详见B站视频介绍：
+https://www.bilibili.com/video/BV1DK4y1H75c
 
 QQ群：972385384
 
