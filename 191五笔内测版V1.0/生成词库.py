@@ -1,5 +1,7 @@
 from openpyxl import load_workbook
 from itertools import islice
+import os
+import time
 
 # ----- 1. 初始化词频字典和编码字典 --------------------------------------------------
 总表 = load_workbook('191五笔词库映射.xlsx', data_only=True)['总表']
@@ -106,7 +108,11 @@ def sorter(tup):
 
 码表.sort(key=sorter)
 
-out_path = '191五笔码表.txt'
+out_dir = '新生成'
+if not os.path.exists(out_dir):
+    os.mkdir(out_dir)
+out_path = '新生成/191五笔自定义码表_' + str(time.time()) + '.txt'
+
 
 with open(out_path, 'w') as f:
     for 编码, 词集 in 码表:
