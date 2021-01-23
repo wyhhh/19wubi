@@ -1,6 +1,6 @@
 res = ''
 
-with open('191五笔码表.txt') as f:
+with open('../191五笔码表.txt') as f:
     for ln in f:
         sp = ln.split()
         code = sp[0]
