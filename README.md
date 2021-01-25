@@ -64,13 +64,13 @@ https://www.bilibili.com/video/BV1DK4y1H75c
 
 
 # 192五笔
-todo
+抓紧开发中..
 
 
 
 QQ群：972385384
 
-todo
+# TODO
 
 - [ ] 192五笔纯打词极致方案
 - [ ] 19五笔系列方案辅助练习软件（初版会制作一个REPL命令行界面辅助学习19五笔）
