@@ -71,11 +71,12 @@ https://www.bilibili.com/video/BV1DK4y1H75c
 - [ ] 192五笔纯打词极致方案
 - [ ] 19五笔系列方案辅助练习软件（初版会制作一个REPL命令行界面辅助学习19五笔）
 
-**※最后欢迎大家☆Star！※**
 
 评测工具: https://pan.baidu.com/s/1uEX9pVr_8CJtUSbCnnVOEw  密码: 5usr
 
 
 QQ群：972385384
 
-2021.01.23创立
+**※最后欢迎大家☆Star！※**
+
+- 2021.01.23
