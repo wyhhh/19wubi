@@ -64,11 +64,7 @@ https://www.bilibili.com/video/BV1DK4y1H75c
 
 
 # 192五笔
-抓紧开发中..
-
-
-
-QQ群：972385384
+开发中..
 
 # TODO
 
@@ -77,4 +73,8 @@ QQ群：972385384
 
 **※最后欢迎大家☆Star！※**
 
+评测工具: https://pan.baidu.com/s/1uEX9pVr_8CJtUSbCnnVOEw  密码: 5usr
+
+
+QQ群：972385384
 2021.01.23创立
