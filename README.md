@@ -1,5 +1,6 @@
 - [191五笔](#191五笔)
 - [192五笔](#192五笔)
+- [组合退火Rust源码](#组合退火)
 
 # 神说，要有光。于是..
 
@@ -65,6 +66,9 @@ https://www.bilibili.com/video/BV1DK4y1H75c
 
 # 192五笔
 开发中..
+
+# 组合退火
+https://github.com/wyhhh/19wubi/tree/%E7%BB%84%E5%90%88%E9%80%80%E7%81%AB
 
 # TODO
 
