@@ -68,8 +68,8 @@ https://www.bilibili.com/video/BV1DK4y1H75c
 开发中..
 
 # 组合退火
-https://github.com/wyhhh/19wubi/tree/%E7%BB%84%E5%90%88%E9%80%80%E7%81%AB
-
+分支：https://github.com/wyhhh/19wubi/tree/%E7%BB%84%E5%90%88%E9%80%80%E7%81%AB
+B站简介：https://www.bilibili.com/video/BV1DK4y1H75c?p=3
 # TODO
 
 - [ ] 192五笔纯打词极致方案
