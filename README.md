@@ -70,6 +70,7 @@ https://www.bilibili.com/video/BV1DK4y1H75c?p=2
 # 组合退火算法
 - 分支：https://github.com/wyhhh/19wubi/tree/%E7%BB%84%E5%90%88%E9%80%80%E7%81%AB
 - B站简介：https://www.bilibili.com/video/BV1DK4y1H75c?p=3
+- 如果需要用我这个算法帮你算，可以私聊我QQ 329167139。有偿
 # TODO
 
 - [ ] 192五笔纯打词极致方案
